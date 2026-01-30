@@ -5,7 +5,7 @@ I'm an enthusiastic web and software developer eager to collaborate and create s
 
 
 - 🔭 Currently working on exciting new projects.
-- 🌱 Always learning and growing in web development.
+- 🌱 Always learning and growing.
 - 👯 Open to collaboration and new opportunities.
 
 ## 🚀 Technologies
